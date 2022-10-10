@@ -10,3 +10,4 @@ helmCharts:
   version: 2.0.18
   namespace: falco
   repo: https://falcosecurity.github.io/charts
+  valuesFile: values.yaml
