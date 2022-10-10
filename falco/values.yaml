@@ -1,0 +1,3 @@
+driver:
+  enabled: true
+  kind: ebpf
